@@ -1,3 +1,7 @@
 # Jupyter Notebook
 
 .ipynb_checkpoints
+
+# Dask workerspace
+
+dask-worker-space/
