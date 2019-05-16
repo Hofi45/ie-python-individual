@@ -22,19 +22,19 @@ In order to be able to run the Jupyter Notebook, some preliminary installations 
 To install the necessary packages with Terminal (macOS):
 * Run `pip install dask`
 * Run `pip install dask_ml`
-* Run `pip install cluster`  
+* Run `pip install distributed`  
 * Check if the package has been installed using `conda list`  
 
 To install the necessary packages with command prompt (windows):  
 Supposing that Python3 is installed and running.
 * Run `python -m pip install dask`
 * Run `python -m pip install dask_ml`
-* Run `python -m pip install cluster`
+* Run `python -m pip install distributed`
 * Check if the package has been installed using `python -m conda list`
 
 To install the necessary packages with Anaconda Prompt:
 * Run `pip install dask`
 * Run `pip install dask_ml`
-* Run `pip install cluster`  
+* Run `pip install distributed`  
 * Check if the package has been installed using `conda list`
 &nbsp;
